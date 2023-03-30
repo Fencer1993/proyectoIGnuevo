@@ -1,0 +1,12 @@
+#mycard {
+    display: flex;
+    justify-content: space-between;
+}
+
+#bold {
+    font-size: larger;
+
+}
+#caption {
+    font-weight: bold;
+}
